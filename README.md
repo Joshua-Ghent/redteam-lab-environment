@@ -77,15 +77,24 @@ Ref 10: Kali → MS2 Ping
 
 Ref 11: MS2 → Kali Ping
 
-![image](https://github.com/user-attachments/assets/197246f3-87d2-4a63-84f6-ed695da00eef)
+![image](https://github.com/user-attachments/assets/1c38721b-e9f0-4fee-b8c0-60b7b4572951)
+
 
 [Screenshot showing MS2 pinging Kali]
 
 Ref 12: MS2 → WinXP Ping
+![image](https://github.com/user-attachments/assets/1968f8f4-be98-4858-9310-8b5c2a4aed61)
+
+
 
 [Screenshot showing MS2 pinging Windows XP]
 
 Ref 13: WinXP → MS2 Ping
+![image](https://github.com/user-attachments/assets/d6c5bb36-4f05-4576-829d-fecc9f7193b9)
+
 
 [Screenshot showing Windows XP pinging MS2]
+![image](https://github.com/user-attachments/assets/a7e8084b-3575-45c0-b803-f7b35296149a)
+
+
 
