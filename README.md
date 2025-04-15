@@ -1,5 +1,5 @@
-# PROJECTNAME
-redteam-lab-environment
+# redteam-lab-environment
+
 ## Objective
 
 The goal of this project was to configure a secure and isolated virtual environment that supports cyber operations. This involved setting up virtual network interfaces in VMware Workstation Pro, configuring network settings on multiple virtual machines (Kali Linux, Metasploitable2, and Windows XP), and verifying communication between the systems. This environment allows for safe experimentation and simulation of attacks and defenses within a contained lab setup.
