@@ -16,7 +16,6 @@ The goal of this project was to configure a secure and isolated virtual environm
 - Understanding virtual broadcast domains and subnet segmentation
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - VMware Workstation Pro
 
